@@ -6,7 +6,7 @@ on:
 
     branches:
 
-      - flutterflow
+      - code-quality-analysis
 
   workflow_dispatch:
 
